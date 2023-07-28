@@ -8,5 +8,5 @@ You can contribute to our project by translating, issue creating, or joining our
 
 ### Useful links:<br>
 👾 [Discord](https://discord.gg/4jqtrxKqCT)<br>
-🌐 [Web](https://fleeb.gg/)<br>
-🐛 [Bug Report](https://github.com/Fleeb-s-Pizza/community)
+🌐 [Web](https://fleebs.gg/)<br>
+🐛 [Bug Report](https://discord.gg/4jqtrxKqCT)
